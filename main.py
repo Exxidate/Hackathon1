@@ -1,2 +1,3 @@
 import utils
-print(utils.factorial(n))
+
+print(utils.factorial(10))
